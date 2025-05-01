@@ -5,4 +5,4 @@ I am Zhengkai Jiang:
 
 * I like to train large-scale models.
 
-*  I’m looking to collaborate on anything interesting about content generation.
+*  I’m looking to collaborate on post-training.
